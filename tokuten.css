@@ -1,0 +1,30 @@
+body{background-color: cyan;}
+h1{text-align: center;}
+.line{border-top: 3px solid #0f0f0f;
+}
+.bun{text-align: center;}
+img{width: 250px;
+    height: auto;
+    display: flex;
+}
+.box{display: flex;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border:solid ;
+    border-radius: 10px;
+    width: fit-content;
+   }
+   .container {
+    width: 960px;
+  }
+  
+  h2 {
+    border-bottom: 1px solid;
+  }
+  .a{display: flex;
+    border-radius: 10px;
+    width: fit-content;
+    text-align:left; 
+}
+.big{font-size: 28px;}
+.page{text-align: right;}
